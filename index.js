@@ -8,7 +8,9 @@
 // isWalking, isSprinting, isCrouched (properties tied to animations)
 
 // Events
+// Click 'change arrow type'
 
 
 // Methods
+// Current arrow type changes
 
